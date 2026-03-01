@@ -1,4 +1,4 @@
-# Tribute Page to Jesus Christ
+<img width="1970" height="1152" alt="Screenshot 2026-03-01 151934" src="https://github.com/user-attachments/assets/89fcd1a7-05f7-4f26-abb0-2ba8d3d17e34" /># Tribute Page to Jesus Christ
 
 My first HTML & CSS project: A simple, clean tribute page dedicated to Jesus Christ.
 
@@ -20,9 +20,8 @@ A responsive single-page tribute with:
 - Responsive design basics (media queries added later if needed)
 
 ## Screenshot
-(Add this later: upload a screenshot to the repo and link it)
-
-![Tribute Page Screenshot](screenshot.png)
+![Tribute Page Screenshot](<img width="1970" height="1152" alt="Screenshot 2026-03-01 151934" src="https://github.com/user-attachments/assets/1718467b-7362-449c-8bfd-8b9b412cb263" />
+)
 
 (Alternative: just say "Screenshot coming soon – view live link above!")
 
